@@ -1,5 +1,5 @@
 {
-  "name": "userGreeting",
+  "name": "jpreault-user-greeting",
   "version": "1.0.0",
   "description": "Simple lib to show greeting with ReactJS",
   "license": "MIT",
