@@ -1,6 +1,6 @@
 {
   "name": "jpreault-user-greeting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple lib to show greeting with ReactJS",
   "license": "MIT",
   "main": "./dist/react-user-greeting.umd.js",
